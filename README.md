@@ -10,8 +10,9 @@ The colab notebooks of this project can be accessed from the models folder of th
 Classifying whether the the patient is covid positive or negative based on their lung's CT Scan analysis. Performing lung and infection segmentation if the patient is covid positive.
 
 ## WORKFLOW:
-<img src="https://github.com/Shubham08avi/Covid-Affected-Lung-Segmentation-and-Classification/blob/main/readme_files/final_images/dataset_img.png" align="middle" height="250" >
-
+<p align="center">
+<img src="https://github.com/Shubham08avi/Covid-Affected-Lung-Segmentation-and-Classification/blob/main/readme_files/final_images/workflow_diagram.png" align="middle" height="350" width ="500" >
+</p>
 ## DATASET:
 
 [This](https://www.kaggle.com/andrewmvd/covid19-ct-scans) dataset contains 20 images of covid positive patients along with thier lung mask and infection mask in the Nifti format.
