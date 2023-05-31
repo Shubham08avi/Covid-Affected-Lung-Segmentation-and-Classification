@@ -68,7 +68,7 @@ We implemented a U-net with dice coefficient along with Cosine Annealing Learnin
 <p align="center">
 <img src="https://github.com/Shubham08avi/Covid-Affected-Lung-Segmentation-and-Classification/blob/main/readme_files/final_images/infection_segmentation.png" align="middle" height="450" width="500">
 <br>
-Infection segmentation model accuracy and lose along with mask predictions
+Infection segmentation model accuracy and loss curve along with mask predictions
 </p>
 
 ## ACKNOWLEDGEMENTS:
