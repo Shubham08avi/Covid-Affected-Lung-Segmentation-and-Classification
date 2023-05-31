@@ -2,7 +2,6 @@
 
 ![version](https://img.shields.io/badge/tensorflow-v2.4.0-gold.svg)
 ![version](https://img.shields.io/badge/keras-v2.2.5-blue.svg)
-![version](https://img.shields.io/badge/nibabel-v3.2.1-green.svg)
 
 The colab notebooks of this project can be accessed from the models folder of this repository.
 
